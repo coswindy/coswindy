@@ -67,7 +67,7 @@ char Menu() // 主菜单
 		flag = 1;
 		pingmu();
 		printf("\n\t\t****************************************\n");
-		printf("\t\t欢迎使用河南工程学院导航图系统\n");
+		printf("\t\t欢迎使用xx学校导航图系统\n");
 		printf("\t\t 1.查询路径 \n");
 		printf("\t\t 2.学校简介\n");
 		printf("\t\t e.退出 \n");
