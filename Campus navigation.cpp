@@ -49,7 +49,7 @@ int main() // 主函数
 			getchar();
 			break;
 		case'2':
-			printf("欢迎来到河南工程学院！\n");
+			printf("欢迎来到xxx学校！\n");
 			printf("天行健，君子以自强不息,意谓以刚毅坚卓的品质，发奋图强，奋斗不止！\n");
 			getchar();
 			getchar();
